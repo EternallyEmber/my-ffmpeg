@@ -6,7 +6,7 @@
     "architecture": {
         "64bit": {
             "url": "https://github.com/EternallyEmber/FFmpeg-Builds/releases/download/latest/ffmpeg-n7.1-latest-win64-nonfree-shared-7.1.zip",
-            "hash": "6bfc6de6dee2c9bd3c518739542f8974004efc53d255f3721782c0d9e48d35e8",
+            "hash": "",
             "extract_dir": "ffmpeg-n7.1-latest-win64-nonfree-shared-7.1"
         }
     },
